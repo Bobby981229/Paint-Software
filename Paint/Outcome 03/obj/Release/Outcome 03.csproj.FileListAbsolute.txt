@@ -1,0 +1,17 @@
+F:\C#\C# Outcome 03\Outcome 03\bin\Release\Outcome 03.exe.config
+F:\C#\C# Outcome 03\Outcome 03\bin\Release\Outcome 03.exe
+F:\C#\C# Outcome 03\Outcome 03\bin\Release\Outcome 03.pdb
+F:\C#\C# Outcome 03\Outcome 03\bin\Release\CSkin.dll
+F:\C#\C# Outcome 03\Outcome 03\bin\Release\CSkin.xml
+F:\C#\C# Outcome 03\Outcome 03\bin\Release\Interop.WMPLib.dll
+F:\C#\C# Outcome 03\Outcome 03\bin\Release\AxInterop.WMPLib.dll
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\Interop.WMPLib.dll
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\AxInterop.WMPLib.dll
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\Outcome 03.csproj.ResolveComReference.cache
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\Outcome_03.Form1.resources
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\Outcome_03.Properties.Resources.resources
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\Outcome 03.csproj.GenerateResource.cache
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\Outcome 03.csproj.CoreCompileInputs.cache
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\Outcome 03.csproj.CopyComplete
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\Outcome 03.exe
+F:\C#\C# Outcome 03\Outcome 03\obj\Release\Outcome 03.pdb

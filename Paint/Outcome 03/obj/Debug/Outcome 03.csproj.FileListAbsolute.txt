@@ -1,0 +1,53 @@
+F:\C#\Outcome 03\Outcome 03\bin\Debug\Outcome 03.exe.config
+F:\C#\Outcome 03\Outcome 03\bin\Debug\Outcome 03.exe
+F:\C#\Outcome 03\Outcome 03\bin\Debug\Outcome 03.pdb
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Outcome 03.csprojAssemblyReference.cache
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Outcome_03.Form1.resources
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Outcome_03.Properties.Resources.resources
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Outcome 03.csproj.GenerateResource.cache
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Outcome 03.csproj.CoreCompileInputs.cache
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Outcome 03.exe
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Outcome 03.pdb
+F:\C#\Outcome 03\Outcome 03\bin\Debug\Interop.WMPLib.dll
+F:\C#\Outcome 03\Outcome 03\bin\Debug\AxInterop.WMPLib.dll
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Interop.WMPLib.dll
+F:\C#\Outcome 03\Outcome 03\obj\Debug\AxInterop.WMPLib.dll
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Outcome 03.csproj.ResolveComReference.cache
+F:\C#\Outcome 03\Outcome 03\bin\Debug\CSkin.dll
+F:\C#\Outcome 03\Outcome 03\bin\Debug\CSkin.xml
+F:\C#\Outcome 03\Outcome 03\obj\Debug\Outcome 03.csproj.CopyComplete
+F:\C#\C# Outcome 03\Outcome 03\bin\Debug\Outcome 03.exe.config
+F:\C#\C# Outcome 03\Outcome 03\bin\Debug\Outcome 03.exe
+F:\C#\C# Outcome 03\Outcome 03\bin\Debug\Outcome 03.pdb
+F:\C#\C# Outcome 03\Outcome 03\bin\Debug\CSkin.dll
+F:\C#\C# Outcome 03\Outcome 03\bin\Debug\CSkin.xml
+F:\C#\C# Outcome 03\Outcome 03\bin\Debug\Interop.WMPLib.dll
+F:\C#\C# Outcome 03\Outcome 03\bin\Debug\AxInterop.WMPLib.dll
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Interop.WMPLib.dll
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\AxInterop.WMPLib.dll
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Outcome 03.csproj.ResolveComReference.cache
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Outcome_03.Properties.Resources.resources
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Outcome 03.csproj.GenerateResource.cache
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Outcome 03.csproj.CoreCompileInputs.cache
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Outcome 03.csproj.CopyComplete
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Outcome 03.exe
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Outcome 03.pdb
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Outcome 03.csprojAssemblyReference.cache
+F:\C#\C# Outcome 03\Outcome 03\obj\Debug\Outcome_03.frmPaint.resources
+F:\C#\C# Outcome 03\Paint\Outcome 03\bin\Debug\Outcome 03.exe.config
+F:\C#\C# Outcome 03\Paint\Outcome 03\bin\Debug\Outcome 03.exe
+F:\C#\C# Outcome 03\Paint\Outcome 03\bin\Debug\Outcome 03.pdb
+F:\C#\C# Outcome 03\Paint\Outcome 03\bin\Debug\CSkin.xml
+F:\C#\C# Outcome 03\Paint\Outcome 03\bin\Debug\Interop.WMPLib.dll
+F:\C#\C# Outcome 03\Paint\Outcome 03\bin\Debug\AxInterop.WMPLib.dll
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Outcome 03.csprojAssemblyReference.cache
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Interop.WMPLib.dll
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\AxInterop.WMPLib.dll
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Outcome 03.csproj.ResolveComReference.cache
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Outcome_03.frmPaint.resources
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Outcome_03.Properties.Resources.resources
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Outcome 03.csproj.GenerateResource.cache
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Outcome 03.csproj.CoreCompileInputs.cache
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Outcome 03.csproj.CopyComplete
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Outcome 03.exe
+F:\C#\C# Outcome 03\Paint\Outcome 03\obj\Debug\Outcome 03.pdb
